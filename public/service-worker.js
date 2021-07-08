@@ -12,7 +12,6 @@ const FILES_TO_CACHE = [
   '/icons/icon-192x192.png',
   '/icons/icon-384x384.png',
   '/icons/icon-512x512.png',
-  '/api/transaction'
 ];
 const APP_PREFIX = 'budget-';
 const VERSION = 'version_01';
